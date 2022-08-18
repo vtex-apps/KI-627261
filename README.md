@@ -14,6 +14,6 @@ Thanks goes to these wonderful people:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/germanBonacchi"><img src="https://avatars.githubusercontent.com/u/55905671?v=4" width="100px;" alt=""/><br /><sub><b>Germán Bonacchi</b></sub></a><br /><a href="https://github.com/vtex-apps/KI-627261/commits?author=germanBonacchi" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/vtexDavidev"><img src="https://avatars.githubusercontent.com/u/89089657?v=4" width="100px;" alt=""/><br /><sub><b>Ximena Charras Reartes</b></sub></a><br /><a href="https://github.com/vtex-apps/KI-627261/commits?author=vtexDavidev" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/vtexDavidev"><img src="https://avatars.githubusercontent.com/u/89089657?v=4" width="100px;" alt=""/><br /><sub><b>David Leal Peláez</b></sub></a><br /><a href="https://github.com/vtex-apps/KI-627261/commits?author=vtexDavidev" title="Code">💻</a></td>
     </tr>
 </table>
